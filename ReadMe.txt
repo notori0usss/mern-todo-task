@@ -1,6 +1,3 @@
-Name: Swaroop Dhungana
-Task: FullStack Developer Task
-
 In order to Install:
 1. Add your Mongodb url in .env file
 2. cd client
